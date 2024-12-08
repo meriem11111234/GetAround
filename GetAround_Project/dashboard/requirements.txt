@@ -1,0 +1,7 @@
+ pandas
+ plotly
+ streamlit
+ numpy
+ Pillow
+ requests
+ regex
